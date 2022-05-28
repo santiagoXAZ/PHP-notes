@@ -1,2 +1,2 @@
-# PHP-grades
-hese are all my notes to learn php
+# PHP-notas
+notes to learn php faster
